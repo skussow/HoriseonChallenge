@@ -11,9 +11,9 @@ What are the steps to install the project? Provide an overview of how to get the
 ## Usage
 
 To access the site, follow this link provided:
-
+https://skussow.github.io/HoriseonChallenge/
 Here is a screenshot of the website one can access with the link provided:
-
+!["screenshot of website"](./assets/images/screenshot.PNG)
 ## Credits
 
 The starter code was provided by Xandromus on github: https://github.com/coding-boot-camp/urban-octo-telegram
