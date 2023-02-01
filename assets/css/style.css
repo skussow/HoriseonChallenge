@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/* sets background color of body */
 body {
     background-color: #d9dcd6;
 }
-
+/* styles the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* styles the h1 element in the header */
 header > h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* styles the span element in header */
 span {
     color: #d9dcd6;
 }
-
+/* styles the nav element in header */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +31,21 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* styles the unordered list in header */
 ul {
     list-style-type: none;
 }
-
+/* styles the list items in ul of header */
 li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* styles the hyperlink */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
-    font-size: 16px;
-}
-
+/* styles the hero id */
 #hero {
     height: 800px;
     width: 100%;
@@ -58,13 +54,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* styles the content class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* styles section elements in content class */
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -73,63 +69,30 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-/* #online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+/* styles the text in the p element */
+p {
+    font-size: 16px;
 }
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
+/* styles the img elements in the content class */
 .content img {
     max-height: 200px;
 }
-
-/* .online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-} */
-
+/* styles the h2 elements in the content class */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
-
+/* styles the float-left class  */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* styles the float-right class  */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
-
+/* styles the benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,62 +103,30 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* styles the section elements in the benefits class */
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-/* .benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
+/* styles the h3 elements in the benefits class */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* .benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
-
+/* styles the img elements in the benefits class */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* .benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
-
+/* styles the footer class */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* syles the h2 element in the footer class */
 .footer h2 {
     font-size: 20px;
 }
